@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AdilkhanTazhibaev/pos-deploy.git/static/css/main.abd64e84.css",
+    "main.js": "/AdilkhanTazhibaev/pos-deploy.git/static/js/main.8279e3fc.js",
+    "index.html": "/AdilkhanTazhibaev/pos-deploy.git/index.html",
+    "main.abd64e84.css.map": "/AdilkhanTazhibaev/pos-deploy.git/static/css/main.abd64e84.css.map",
+    "main.8279e3fc.js.map": "/AdilkhanTazhibaev/pos-deploy.git/static/js/main.8279e3fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.8279e3fc.js"
+  ]
+}
